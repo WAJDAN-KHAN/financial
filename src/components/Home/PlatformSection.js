@@ -41,7 +41,7 @@ export const PlatformSection = () => {
             </div>
             <div className="flex h-fit flex-col items-center justify-center lg:h-[540px] lg:flex-row lg:justify-between">
               <a
-                className="mb-l h-[280px] sm:h-[380px] md:h-[412px] w-full lg:w-[326px] bg-cover transition-[height] duration-300 bg-no-repeat bg-center md:bg-bottom rounded-xl no-underline hover:no-underline lg:h-[420px] lg:hover:h-[460px]"
+                className="mb-2 h-[280px] sm:h-[380px] md:h-[412px] w-full lg:w-[326px] bg-cover transition-[height] duration-300 bg-no-repeat bg-center md:bg-bottom rounded-xl no-underline hover:no-underline lg:h-[420px] lg:hover:h-[460px]"
                 style={{
                   backgroundImage:
                     'url("https://static.production.neofinancial.com/marketing-web/homepage/home-feature-1.jpg")',
@@ -57,7 +57,7 @@ export const PlatformSection = () => {
                 </div>
               </a>
               <a
-                className="mb-l h-[280px] sm:h-[380px] md:h-[412px] w-full lg:w-[326px] bg-cover transition-[height] duration-300 bg-no-repeat bg-center md:bg-bottom rounded-xl no-underline hover:no-underline lg:h-[480px] lg:hover:h-[520px]"
+                className="mb-2 h-[280px] sm:h-[380px] md:h-[412px] w-full lg:w-[326px] bg-cover transition-[height] duration-300 bg-no-repeat bg-center md:bg-bottom rounded-xl no-underline hover:no-underline lg:h-[480px] lg:hover:h-[520px]"
                 style={{
                   backgroundImage:
                     'url("https://static.production.neofinancial.com/marketing-web/homepage/home-feature-2.jpg")',
@@ -73,7 +73,7 @@ export const PlatformSection = () => {
                 </div>
               </a>
               <a
-                className="mb-l h-[280px] sm:h-[380px] md:h-[412px] w-full lg:w-[326px] bg-cover transition-[height] duration-300 bg-no-repeat bg-center md:bg-bottom rounded-xl no-underline hover:no-underline lg:h-[420px] lg:hover:h-[460px]"
+                className="mb-2 h-[280px] sm:h-[380px] md:h-[412px] w-full lg:w-[326px] bg-cover transition-[height] duration-300 bg-no-repeat bg-center md:bg-bottom rounded-xl no-underline hover:no-underline lg:h-[420px] lg:hover:h-[460px]"
                 style={{
                   backgroundImage:
                     'url("https://static.production.neofinancial.com/marketing-web/homepage/home-feature-3.jpg")',
